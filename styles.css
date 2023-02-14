@@ -1,0 +1,24 @@
+.first{
+    font-family:"Brush Script Mt", monospace;
+    font-weight:bold;
+    color: red;
+    background-color: yellow;
+    font-size: 50px;
+}
+.second{
+    font-size: 150px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    color: purple;
+    background-color: orange;
+}
+.third{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    color: white;
+    background-color: maroon;
+    font-size: 250px;
+}
+h1{
+    font-family: Garamond;
+}
