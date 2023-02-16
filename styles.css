@@ -1,3 +1,6 @@
+body{
+    background-color: darkgrey;
+}
 .first{
     font-family:"Brush Script Mt", monospace;
     font-weight:bold;
